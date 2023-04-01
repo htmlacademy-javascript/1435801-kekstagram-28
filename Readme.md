@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Igor Kovalev](https://up.htmlacademy.ru/javascript/28/user/1435801).
-* Наставник: `Евгений Лепёшкин`.
+* Наставник: [Евгений Лепёшкин](https://htmlacademy.ru/profile/spearance).
 
 ---
 
